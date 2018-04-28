@@ -1,0 +1,8 @@
+.Bar_kaola {
+  margin-bottom: 10px;
+}
+.Bar_kaola .bar input[type="number"] {
+  width: 50px;
+  position: relative;
+  top: -2px;
+}
